@@ -27,8 +27,7 @@ Build out this recipe page and get it looking as close to the design as possible
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages Site](https://frenchfulton94.github.io/Recipe-Page-Project/)
 
 ## My process
 
